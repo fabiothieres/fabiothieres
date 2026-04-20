@@ -12,7 +12,7 @@
 </div>
 
 
----
+##
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -69,7 +69,9 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
----
+<br>
+
+##
 
 <div align-center>
   <img src="https://raw.githubusercontent.com/fabiothieres/fabiothieres/output/snake.svg" alt="Snake animation" />
